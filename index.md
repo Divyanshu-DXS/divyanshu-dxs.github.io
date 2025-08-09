@@ -1,6 +1,6 @@
 ---
 layout: default
-title: README
+title: DIVYANSHU SHARMA
 ---
 
 ## Hey, I’m Divyanshu Sharma — I build the engines that power ideas.
