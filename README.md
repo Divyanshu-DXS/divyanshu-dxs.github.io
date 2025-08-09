@@ -1,3 +1,8 @@
+---
+layout: default
+title: README
+---
+
 [Home](./) | [About](./about/) | [Projects](./_posts/2025-08-08-Post1.md)
 
 ## Hey, I’m Divyanshu Sharma — I build the engines that power ideas.
