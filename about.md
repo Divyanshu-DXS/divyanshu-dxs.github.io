@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-## Hey, I’m Divyanshu Sharma — I build the engines that power ideas.
+## Hey, I’m Divyanshu. You can call me Dev.
 
 <p align="justify">
 In the fast-moving world of tech, flashy interfaces grab attention — but it’s the backend that keeps everything running. That’s where I come in.  
